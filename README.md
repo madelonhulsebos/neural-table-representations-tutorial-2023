@@ -42,7 +42,7 @@ as a hands-on session, where attendees will use their laptop to
 explore this new framework and test neural models involving text
 and tabular data.
 
-TBC
+TBC.
 
 
 ### Logistics
@@ -54,4 +54,4 @@ Presenters: Madelon Hulsebos, Xiang Deng, Huan Sun, and Paolo Papotti.
 
 ### Code and sources
 
-TBC
+TBC.
