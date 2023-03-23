@@ -2,7 +2,6 @@
 
 In this repository, you can find more information and up to date material for the tutorial on Models and Practice of Neural Table Representations. This tutorial will be given on 19 June 2023 at SIGMOD 2023 in Seattle. More details will follow.
 
-
 **Abstract**: In the last few years, the natural language processing community
 witnessed advances in neural representations of free-form text with
 transformer-based language models (LMs). Given the importance
@@ -24,16 +23,14 @@ explore this new framework and test neural models involving text
 and tabular data.
 
 
-----
-
-Contents
+## Contents
 - [Tutorial overview](#tutorial-overview)
 - [Logistics](#logistics)
 - [Material and sources](#code-and-sources)
 
-----
+---
 
-### Tutorial overview
+## Tutorial overview
 
 The tutorial will take 3 hours in total. The first part (1.5 hours)
 covers the background for neural table representations, including a
@@ -44,14 +41,16 @@ and tabular data.
 
 TBC.
 
+---
 
-### Logistics
+## Logistics
 
 Location: Seattle (at SIGMOD 2023).
 Date: 19 June.
 Presenters: Madelon Hulsebos, Xiang Deng, Huan Sun, and Paolo Papotti.
 
+---
 
-### Code and sources
+## Code and sources
 
 TBC.
