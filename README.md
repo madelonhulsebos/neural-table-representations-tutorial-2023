@@ -1,6 +1,6 @@
 # Models and Practice of Neural Table Representations
 
-In this repository, you can find more information and up to date material for the tutorial on Models and Practice of Neural Table Representations. This tutorial will be given on 19 June 2023 at SIGMOD 2023 in Seattle. More details will follow.
+In this repository, you can find more information and up to date material for the tutorial on Models and Practice of Neural Table Representations. This tutorial will be given on 23 June 2023 at SIGMOD 2023 in Seattle. More details will follow.
 
 **Abstract**: In the last few years, the natural language processing community
 witnessed advances in neural representations of free-form text with
@@ -46,7 +46,7 @@ TBC.
 ## Logistics
 
 Location: Seattle (at SIGMOD 2023).
-Date: 19 June.
+Time: 1:30-5:00, 23 June.
 Presenters: Madelon Hulsebos, Xiang Deng, Huan Sun, and Paolo Papotti.
 
 ---
