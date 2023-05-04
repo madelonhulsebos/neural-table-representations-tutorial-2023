@@ -46,7 +46,9 @@ TBC.
 ## Logistics
 
 Location: Seattle (at SIGMOD 2023).
+
 Time: 1:30-5:00, 23 June.
+
 Presenters: Madelon Hulsebos, Xiang Deng, Huan Sun, and Paolo Papotti.
 
 ---
