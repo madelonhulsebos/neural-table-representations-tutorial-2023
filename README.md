@@ -32,12 +32,26 @@ and tabular data.
 
 ## Tutorial overview
 The tutorial will take 3 hours in total. The first part (1.5 hours)
-covers the background for neural table representations, including a
-survey of the most important models, applications and challenges.
+covers the background for neural table representations.
 The second part (1.5 hours) is designed as a hands-on session,
 where attendees will use their laptop to explore this new framework and
 test neural models involving text and tabular data.
 
+In part 1:
+- Motivation & background on Transformers and Language models.
+- Survey of the key neural table models and applications.
+- Overview of open challenges and future directions.
+
+In part 2a:
+- Input formats and preprocessing (serialization, tokenization, numeric)
+- Understanding model architecture
+- Using fine-tuned models to answer questions / verify statements
+
+In part 2b:
+- Understand self-supervised pre-training using raw tables without additional labels
+- Understand different types of fine-tuning strategies for downstream tasks:
+    - Token and sequence Classification: classification based on table, column, row or cell representations (e.g. column type prediction, fact verification)
+    - Extractive QA: predict the start and end positions of the answer span (e.g. table QA)
 
 ---
 
@@ -54,4 +68,4 @@ Presenters: Madelon Hulsebos, Xiang Deng, Huan Sun, and Paolo Papotti.
 ## Code and sources
 
 Google Colab Notebook for part 2a (by Madelon Hulsebos): [https://colab.research.google.com/drive/1trjqxE6YGvFcERyimITkZD98TRGbCWx1?usp=sharing](https://colab.research.google.com/drive/1trjqxE6YGvFcERyimITkZD98TRGbCWx1?usp=sharing)
-Google Colab Notebook for part 2b (by Xiang Deng): 
+Google Colab Notebook for part 2b (by Xiang Deng): [https://colab.research.google.com/drive/1WTg-YnfNVX4M0P0m1mEJYDQVkWr4HKXl](https://colab.research.google.com/drive/1WTg-YnfNVX4M0P0m1mEJYDQVkWr4HKXl)
