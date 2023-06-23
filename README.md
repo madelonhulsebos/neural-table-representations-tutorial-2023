@@ -31,15 +31,13 @@ and tabular data.
 ---
 
 ## Tutorial overview
-
 The tutorial will take 3 hours in total. The first part (1.5 hours)
 covers the background for neural table representations, including a
-survey of the most important systems. The second part (1.5 hours) is designed
-as a hands-on session, where attendees will use their laptop to
-explore this new framework and test neural models involving text
-and tabular data.
+survey of the most important models, applications and challenges.
+The second part (1.5 hours) is designed as a hands-on session,
+where attendees will use their laptop to explore this new framework and
+test neural models involving text and tabular data.
 
-TBC.
 
 ---
 
@@ -55,4 +53,5 @@ Presenters: Madelon Hulsebos, Xiang Deng, Huan Sun, and Paolo Papotti.
 
 ## Code and sources
 
-TBC.
+Google Colab Notebook for part 2a (by Madelon Hulsebos): [https://colab.research.google.com/drive/1trjqxE6YGvFcERyimITkZD98TRGbCWx1?usp=sharing](https://colab.research.google.com/drive/1trjqxE6YGvFcERyimITkZD98TRGbCWx1?usp=sharing)
+Google Colab Notebook for part 2b (by Xiang Deng): 
