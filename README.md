@@ -70,5 +70,17 @@ Presenters: Madelon Hulsebos, Xiang Deng, Huan Sun, and Paolo Papotti.
 - Slides part 1 (by Paolo Papotti): [Tutorial slides download](assets/TutorialSIGMOD23.pdf)
 
 - Google Colab Notebook for part 2a (by Madelon Hulsebos): [https://colab.research.google.com/drive/1trjqxE6YGvFcERyimITkZD98TRGbCWx1?usp=sharing](https://colab.research.google.com/drive/1trjqxE6YGvFcERyimITkZD98TRGbCWx1?usp=sharing)
-
 - Google Colab Notebook for part 2b (by Xiang Deng): [https://colab.research.google.com/drive/1WTg-YnfNVX4M0P0m1mEJYDQVkWr4HKXl](https://colab.research.google.com/drive/1WTg-YnfNVX4M0P0m1mEJYDQVkWr4HKXl)
+
+---
+
+## Citation:
+
+```
+@inproceedings{hulsebos2023models,
+  title={Models and Practice of Neural Table Representations},
+  author={Hulsebos, Madelon and Deng, Xiang and Sun, Huan and Papotti, Paolo},
+  booktitle={Companion of the 2023 International Conference on Management of Data},
+  pages={83--89},
+  year={2023}
+}
